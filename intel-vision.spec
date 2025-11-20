@@ -2,7 +2,7 @@ Name:           intel-vision
 Summary:        Metadata package for Intel vision drivers
 Version:        2025112.WW46.3_25_ptl_pv
 Release:        1%{?dist}
-License:        Proprietary
+License:        GPL-2.0-or-later
 URL:            https://github.com/intel/vision-drivers
 
 BuildRequires:  systemd-rpm-macros
@@ -12,10 +12,10 @@ Requires:       intel-vision-kmod
 
 BuildArch:      noarch
 
-%description
-This is the metadata package for IPU7 camera support.
 
-%files
+%description
+This is the metadata package for Intel vision drivers.
+
 
 %changelog
 * Mon Nov 03 2025 Kate Hsuan <hpa@redhat.com> - 2025112.WW46.3_25_ptl_pv-1
