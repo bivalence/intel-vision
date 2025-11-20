@@ -18,6 +18,5 @@ This is the metadata package for Intel vision drivers.
 
 
 %changelog
-* Mon Nov 03 2025 Kate Hsuan <hpa@redhat.com> - 2025112.WW46.3_25_ptl_pv-1
-- Meta package for the Intel vision drivers
-
+* Thu Oct 30 2025 Ben Matteson <bmatteso@us.ibm.com> - WW46.3_25_ptl_pv-1
+- Update to WW46.3_25_ptl_pv
